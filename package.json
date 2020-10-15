@@ -1,0 +1,42 @@
+{
+  "_from": "rgmrankingservice",
+  "_id": "rgmrankingservice@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-/eYOs+TVutHcWzPiKak+ui5ShYCU4bXSQ/Ed7pB4zkcWXklN+oTwlrTTsg9RmDUJSz5mCTU4Ac1Re+EmY6yJwA==",
+  "_location": "/rgmrankingservice",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rgmrankingservice",
+    "name": "rgmrankingservice",
+    "escapedName": "rgmrankingservice",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rgmrankingservice/-/rgmrankingservice-1.0.1.tgz",
+  "_shasum": "9862da316dffdd7dd217a003670dc8fc649d45db",
+  "_spec": "rgmrankingservice",
+  "_where": "C:\\Users\\RGM\\Desktop\\api",
+  "author": {
+    "name": "xRG_M"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "deprecated": false,
+  "description": "rgmrankingservice package is a Roblox ranking API based on the RGM Ranking Service Rannking systems, with this you can make your own bot and more!",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "rgmrankingservice",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
